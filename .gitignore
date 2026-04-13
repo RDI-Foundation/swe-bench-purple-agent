@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.python-version
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Virtual environments
+.venv
